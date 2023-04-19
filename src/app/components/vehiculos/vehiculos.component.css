@@ -8,5 +8,9 @@
     text-align: justify;
 }
 .backgroundCard{
-    background-color: rgb(19, 18, 18) ;
+    background-color: rgb(18, 18, 19) ;
+}
+
+.backgroundButton{
+    background-color:#49abf1 ;
 }
